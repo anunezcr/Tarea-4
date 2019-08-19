@@ -30,3 +30,5 @@ El caso extremo de los resultados obtenidos fue un 83% en training pero con un 5
 
 El éxito del resultado obtenido que considero aceptable, fue el cambio en la proporción del set de training vrs test
 
+Adjunto documento de excel donde documentaba algunas de las pruebas que hacía. Está ordenado de mejor a peor resultado
+
